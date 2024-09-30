@@ -1,0 +1,83 @@
+
+.thumbnails {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.ad-about {
+    color: black;
+    width: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.ad-benefit {
+    margin-top: 8px;
+    margin-bottom: 0px;
+    color: black;
+    font-size: 14px;
+    width: 310px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.ad-sector {
+    margin-top: 10px;
+    color: black;
+    font-size: 14px;
+    width: 310px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.video-about {
+    color: black;
+    width: 310px;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 0px;
+    display: inline-block;
+    margin-top: 8px;
+    vertical-align: top;
+    margin-left: 4px;
+}
+
+.video-author {
+    margin-top: 8px;
+    margin-bottom: 0px;
+    color: #383737;
+    font-size: 14px;
+    width: 310px;
+    font-family: Roboto, Arial, sans-serif;
+    margin-left: 4px;
+    vertical-align: top;
+}
+
+.video-stats {
+    color: #383737;
+    font-size: 14px;
+    width: 310px;
+    font-family: Roboto, Arial, sans-serif;
+    margin-left: 4px;
+    margin-top: 0px;
+}
+
+.video-info-grid {
+    display: grid;
+    grid-template-columns: 36px 1fr;
+}
+
+.profile-picture {
+    width: 36px;
+    height: 36px;
+    border-radius: 20px;
+}
+
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 40px;
+  column-gap: 20px;
+}

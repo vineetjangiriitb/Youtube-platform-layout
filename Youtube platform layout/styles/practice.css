@@ -1,0 +1,56 @@
+
+  .video-title{
+      font-family: Protest Riot;
+      font-weight: bold;
+      font-size: 20px;
+      font-style: italic;
+      width: 350px;
+      line-height: 25px;
+      margin-bottom: 5px;
+  }
+
+  .video-stats{
+      font-family: Protest Strike;
+      font-size: 15px;
+      color: rgb(96, 96, 96);
+      margin-top: 0;
+      margin-bottom: 10px;
+
+
+  }
+  .video-author{
+      font-size: 15px;
+      color: rgb(96, 96, 96);
+      margin-bottom: 10px;
+      margin-top: 10px;
+
+  }
+  .video-about{
+      font-size: 15px;
+      color: rgb(96, 96, 96);
+      width: 300px;
+
+  }
+  .apple-text{
+      background-color: red;
+      color: white;
+      font-size: 16px;
+      text-align: center;
+      padding-top: 15px;
+      padding-bottom: 15px;
+
+  }
+
+  .span-text{
+      cursor: pointer;
+      text-decoration: underline;
+
+  }
+
+  .span-text:hover{
+      color: black;
+      text-decoration: none;
+
+  }
+
+
